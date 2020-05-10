@@ -6,7 +6,7 @@ public class UsuarioCtrl {
 
         System.out.println("Mi primer programa hecho en Java");
 
-        Usuario usr1 = new Usuario("Pablo", "Lucero Schneider", "pdls@gmail.com","12345678");
+        Usuario usr1 = new Inquilino("Pablo", "Lucero Schneider", "pdls@gmail.com","12345678");
         System.out.println(usr1.getName());
 
     }
